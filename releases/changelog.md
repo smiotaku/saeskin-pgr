@@ -1,4 +1,11 @@
 # SAESKIN CHANGELOG
+# Release v1.4.118
+## 22/10/23
+### What's Changed
+- Added 6 new Mondstadt Characters.
+- Added New Windows for Information update
+
+# Release v1.4.111
 ## 14/10/23
 ### What's Changed
 - Resolved an issue where changing the hue would inadvertently alter the character's color. Users can now change the hue without affecting the character's color.
