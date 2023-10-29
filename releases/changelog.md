@@ -1,8 +1,17 @@
 # SAESKIN CHANGELOG
+## 29/10/23
+### What's Changed
+- Introduced 18 new Liyue Characters.
+- Incorporated character namecards into the bottom panel.
+- Fine-tuned the Track Info text and cover color.
+- Implemented the cover opacity feature for the track info.
+- Adjusted the texture element.
+- Added the capability to change cover colors for the track info.
+
 # Release v1.4.118
 ## 22/10/23
 ### What's Changed
-- Added 6 new Mondstadt Characters.
+- Introduced 6 new Mondstadt Characters.
 - Added New Windows for Information update
 
 # Release v1.4.111
