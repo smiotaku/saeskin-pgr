@@ -1,4 +1,5 @@
 # SAESKIN CHANGELOG
+# Release v1.4.143
 ## 29/10/23
 ### What's Changed
 - Introduced 18 new Liyue Characters.
