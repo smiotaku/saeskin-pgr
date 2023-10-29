@@ -1,4 +1,9 @@
 # SAESKIN CHANGELOG
+# 29/10/23
+### What's Changed
+- Fixed several bugs in the track information features.
+- Updated the character Klee's image.
+
 # Release v1.4.143
 ## 29/10/23
 ### What's Changed
