@@ -1,4 +1,11 @@
 # SAESKIN CHANGELOG
+# Release v1.4.148
+# 30/10/23
+### What's Changed
+- Introduced 15 new Inazuma Characters.
+- Added the scrollbar to Themes, Playlist & Library and Background settings.
+- Introduced Background Global Settings.
+
 # 29/10/23
 ### What's Changed
 - Fixed several bugs in the track information features.
