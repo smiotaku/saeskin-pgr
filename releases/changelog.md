@@ -1,12 +1,20 @@
 # SAESKIN CHANGELOG
+## 04/11/23
+### What's Changed
+- Introduced 13 new Sumeru Characters.
+- Fixed dual character backgrounds on Now Playing.
+- Changed the character background to non-default.
+- Removed several custom providers.
+- Renamed several custom providers.
+
 # Release v1.4.148
-# 30/10/23
+## 30/10/23
 ### What's Changed
 - Introduced 15 new Inazuma Characters.
 - Added the scrollbar to Themes, Playlist & Library and Background settings.
 - Introduced Background Global Settings.
 
-# 29/10/23
+## 29/10/23
 ### What's Changed
 - Fixed several bugs in the track information features.
 - Updated the character Klee's image.
