@@ -1,4 +1,9 @@
 # SAESKIN CHANGELOG
+## 05/11/23
+### What's Changed
+- Introduced new Settings Background.
+- Changed the preview image of Home Design and Track Info Design.
+
 ## 04/11/23
 ### What's Changed
 - Introduced 13 new Sumeru Characters.
