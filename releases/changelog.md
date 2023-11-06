@@ -1,4 +1,9 @@
 # SAESKIN CHANGELOG
+# Release v1.5.156
+## 06/11/23
+### What's Changed
+- Fine-tuned the Track Info text.
+
 ## 05/11/23
 ### What's Changed
 - Introduced new Settings Background.
