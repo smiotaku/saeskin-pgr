@@ -1,4 +1,11 @@
 # SAESKIN CHANGELOG
+# Release v1.7.170
+## 12/11/23
+### What's Changed
+- Introduced 7 new Fontaine Characters.
+- Added customization feature for character backgrounds in Now Playing.
+- Added customization feature for backgrounds in Bottom Panel.
+
 # Release v1.5.156
 ## 06/11/23
 ### What's Changed
